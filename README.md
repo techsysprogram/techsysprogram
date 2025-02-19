@@ -7,7 +7,7 @@ Passionné par la technologie, j’aime concevoir des applications modernes, per
 
 ## 🧑‍💻 À propos de moi  
 
-💡 **Développeur autodidacte**, j’ai transformé ma passion en métier il y a plus de 5 ans. J’ai affûté mes compétences en explorant diverses technologies et en suivant des formations, notamment chez **Noa Forma, Neobridge et Le Reacteur Bootcamp ❤️**, Next.js Mastery **.  
+💡 **Développeur autodidacte**, j’ai transformé ma passion en métier il y a plus de 5 ans. J’ai affûté mes compétences en explorant diverses technologies et en suivant des formations, notamment chez **Noa Forma, Neobridge, Le Reacteur Bootcamp ❤️** et Next.js Mastery.  
 
 🔍 Toujours en veille sur les dernières tendances, j’accorde une grande importance à l'optimisation des performances, à la **sécurité** et à la **scalabilité** des applications que je développe.  
 
@@ -51,16 +51,6 @@ Passionné par la technologie, j’aime concevoir des applications modernes, per
   <img src="https://img.shields.io/badge/OAuth%20%26%20JWT-3D3D3D?style=for-the-badge">
   <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white">
   <img src="https://img.shields.io/badge/Clerk-4253AF?style=for-the-badge&logo=clerk&logoColor=white">
-</p>
-
----
-
-## 📈 Statistiques GitHub  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techsysprogram&show_icons=true&theme=dark">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techsysprogram&layout=compact&theme=dark">
 </p>
 
 ---

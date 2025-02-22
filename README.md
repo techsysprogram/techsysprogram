@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Miguel Bellota  
+# 👋 Salut, moi c'est Miguel 
 
 🚀 **Développeur Full Stack & Créateur de Logiciels & Applications Mobiles**  
 Passionné par la technologie, j’aime concevoir des applications modernes, performantes et intuitives, en mettant l'accent sur l'expérience utilisateur et la scalabilité.  

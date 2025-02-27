@@ -57,8 +57,8 @@ Passionné par la technologie, j’aime concevoir des applications modernes, per
 
 ## 📫 Me contacter  
 🌐 **Portfolio** : [techsysprogram.com](https://techsysprogram.com)  
-💼 **LinkedIn** : [Miguel](https://www.linkedin.com/in/miguel-d%C3%A9veloppeur-157144194/](https://www.linkedin.com/in/miguel-bellota-157144194)
-📩 **Email** : [Contactez-moi](mailto:contact@techsysprogram.com)  
+💼 **LinkedIn** : [Miguel](https://www.linkedin.com/in/miguel-bellota-157144194/)  
+📩 **Email** : [Contactez-moi](mailto:contact@techsysprogram.com)   
 
 ---
 

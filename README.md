@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Miguel
+# 👋 Salut, moi c’est Miguel Bellota
 
 **Développeur Full Stack spécialisé en applications web et mobiles.**  
 Je conçois des produits modernes, performants et agréables à utiliser, de l’idée jusqu’à la mise en ligne.
@@ -34,12 +34,6 @@ Next.js · React · React Native · TypeScript · JavaScript · Vite · Tailwind
 **Back-end & données**  
 Node.js · Express · PHP · Python · MySQL · PostgreSQL · MongoDB · SQLite
 
-**Outils & services**  
-Prisma · Drizzle · Strapi · Clerk · OAuth · JWT
-
-<details>
-<summary>Voir les technologies</summary>
-
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -50,21 +44,26 @@ Prisma · Drizzle · Strapi · Clerk · OAuth · JWT
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
-</details>
 
 ## Projets sélectionnés
 
-> Remplace cette partie par tes 2 à 4 meilleurs projets. Mets toujours une phrase sur le problème résolu, les technologies et un lien de démonstration.
+> Exemples de solutions conçues pour répondre à des besoins concrets. Certains codes sources restent privés afin de respecter la confidentialité des projets clients.
 
-### [Nom du projet](https://github.com/ton-compte/ton-projet)
-Application permettant de **[objectif du projet]**.  
-**Stack :** Next.js · TypeScript · PostgreSQL · Prisma  
-[Démo](https://exemple.com) · [Code source](https://github.com/ton-compte/ton-projet)
+### Alline Manager — Gestion de conciergeries
+Plateforme métier destinée aux conciergeries et hôtes : planning, tâches, messagerie, inventaire et livret d’accueil numérique.
 
-### [Nom du projet](https://github.com/ton-compte/ton-projet)
-Application mobile/web conçue pour **[objectif du projet]**.  
-**Stack :** React Native · Node.js · Express · MongoDB  
-[Code source](https://github.com/ton-compte/ton-projet)
+[Voir le projet](https://alline-manager.fr)
+
+### ExtraPlus — E-commerce pour hébergements
+Plateforme de vente de services additionnels pour les locations, avec paiement sécurisé Stripe, synchronisation Google Calendar et emails automatiques.
+
+### LTENR — Solutions solaires
+Site professionnel optimisé pour le référencement local, la performance et les demandes de devis pour une entreprise de panneaux solaires.
+
+[Voir le site](https://ltenr81.fr)
+
+### QuizTime — Quiz interactif
+Projet mêlant logiciel et électronique : interface de jeu, pupitres Arduino, boutons lumineux et communication Ethernet.
 
 ## Me contacter
 
